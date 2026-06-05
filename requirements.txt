@@ -2,5 +2,5 @@ streamlit==1.46.1
 numpy==2.3.0
 pandas==2.3.0
 joblib==1.5.1
-xgboost==3.0.2
 scikit-learn==1.7.0
+xgboost==3.0.2
